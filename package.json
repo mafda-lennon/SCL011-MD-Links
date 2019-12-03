@@ -26,9 +26,11 @@
   },
   "homepage": "https://github.com/mafda-lennon/SCL011-MD-Links#readme",
   "dependencies": {
-    "eslint": "^6.6.0",
     "eslint-plugin-jest": "^23.0.4",
     "jest": "^24.9.0",
     "markdown-link-extractor": "^1.2.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.7.1"
   }
 }
